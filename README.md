@@ -1,4 +1,4 @@
-`python_libstorj`
+`python_libczarcoin`
 =================
 [![Storj.io](https://storj.io/img/storj-badge.svg)](https://storj.io)
 [![Build Status](https://travis-ci.org/Storj/python-libstorj.svg?branch=master)](https://travis-ci.org/Storj/python-libstorj)
